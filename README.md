@@ -298,7 +298,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## Author
 
 **Rony** — AI & Software Engineer
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/rony-zeenaldeen-b288112ab/) · [GitHub](https://github.com/Rony-ZenAlden/)
 
 ---
 
